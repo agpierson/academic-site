@@ -39,7 +39,7 @@ interests = [
 [[education.courses]]
   course = "PhD in Linguistics"
   institution = "UCLouvain"
-  year = 2016-2020
+  year = 2016 (in progress)
 
 [[education.courses]]
   course = "Master [120] in Linguistics"

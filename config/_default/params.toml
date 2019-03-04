@@ -69,6 +69,7 @@ contact_links = [
 #  {icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
 #  {icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
   {icon = "whatsapp", icon_pack = "fab", name = "+32 494 60 02 85"},
+  {icon = "linkedin", icon_pack = "fab", name = "My page on Linkedin", link = "https://www.linkedin.com/in/agathe-pierson-430b77115/"}
   ]
 
 # Display a map.

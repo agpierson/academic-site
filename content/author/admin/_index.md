@@ -16,7 +16,7 @@ role = "PhD Student"
 organizations = [ { name = "UCLouvain", url = "https://uclouvain.be/" } ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "As a PhD Student at UCLouvain (CENTAL, team part of ILC), I'm currently working on medical language, more precisely on time, aspect and cause expression in professional medical language, carried out with a twofold approach that combines NLP tools and linguistic theories. My research interests include information extraction, semantics and clinical linguistics. I am a PhD candidate in Linguistics thanks to a F.R.S.-F.N.R.S. Fellowship (Belgium). Previously, I studied French Linguistics (corpus linguistics, sociolinguistics, historical linguistics, phonetics and dialectal). Especially, I worked on Middle French lexicon for the development of new linguistics resources."
+bio = "As a PhD Student at UCLouvain [ { name = "UCLouvain", url = "https://uclouvain.be/" } ](CENTAL, team part of ILC), I'm currently working on medical language, more precisely on time, aspect and cause expression in professional medical language, carried out with a twofold approach that combines NLP tools and linguistic theories. My research interests include information extraction, semantics and clinical linguistics. I am a PhD candidate in Linguistics thanks to a F.R.S.-F.N.R.S. Fellowship (Belgium). Previously, I studied French Linguistics (corpus linguistics, sociolinguistics, historical linguistics, phonetics and dialectal). Especially, I worked on Middle French lexicon for the development of new linguistics resources."
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email = ""

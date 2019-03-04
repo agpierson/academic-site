@@ -37,11 +37,6 @@ interests = [
 
 # List qualifications (such as academic degrees)
 [[education.courses]]
-  course = "PhD in Linguistics"
-  institution = "UCLouvain"
-  year = 2016 (in progress)
-
-[[education.courses]]
   course = "Master [120] in Linguistics"
   institution = "UCLouvain"
   year = 2016

@@ -58,8 +58,8 @@ interests = [
 
 [[social]]
   icon = "envelope"
-  icon_pack = "fab"
-  link = "mailto:agathe.pierson@uclouvain.be".
+  icon_pack = "fas"
+  link = "mailto:agathe.pierson@uclouvain.be"
 
 [[social]]
   icon = "researchgate"

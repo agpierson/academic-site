@@ -82,6 +82,6 @@ interests = [
 
 About me
 
-As a PhD Student at UCLouvain ({ name = "CENTAL", url = "https://uclouvain.be/fr/instituts-recherche/ilc/cental" } team part of { name = "ILC", url = "https://uclouvain.be/en/research-institutes/ilc/about.html" }), I'm currently working on medical language, more precisely on time, aspect and cause expression in professional medical language, carried out with a twofold approach that combines NLP tools and linguistic theories. My research interests include information extraction, semantics and clinical linguistics.
+As a PhD Student at UCLouvain ( [ { name = "CENTAL", url = "https://uclouvain.be/fr/instituts-recherche/ilc/cental" } ] team part of [ { name = "ILC", url = "https://uclouvain.be/en/research-institutes/ilc/about.html" } ]), I'm currently working on medical language, more precisely on time, aspect and cause expression in professional medical language, carried out with a twofold approach that combines NLP tools and linguistic theories. My research interests include information extraction, semantics and clinical linguistics.
 
 I am a PhD candidate in Linguistics thanks to a F.R.S.-F.N.R.S. Fellowship (Belgium). Previously, I studied French Linguistics (corpus linguistics, sociolinguistics, historical linguistics, phonetics and dialectal). Especially, I worked on Middle French lexicon for the development of new linguistics resources.

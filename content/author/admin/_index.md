@@ -58,7 +58,7 @@ interests = [
 
 [[social]]
   icon = "envelope"
-  icon_pack = "fas"
+  icon_pack = "fab"
   link = "mailto:agathe.pierson@uclouvain.be".
 
 [[social]]
@@ -66,20 +66,10 @@ interests = [
   icon_pack = "fab"
   link = "https://www.researchgate.net/profile/Agathe_Pierson"
 
-#[[social]]
-#  icon = "twitter"
-#  icon_pack = "fab"
-#  link = "https://twitter.com/GeorgeCushen"
-
 [[social]]
   icon = "google-scholar"
   icon_pack = "ai"
   link = "https://scholar.google.be/citations?user=tA4Y1aYAAAAJ&hl=fr"
-
-#[[social]]
-#  icon = "github"
-#  icon_pack = "fab"
-#  link = "https://github.com/gcushen"
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.

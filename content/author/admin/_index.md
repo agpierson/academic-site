@@ -1,6 +1,6 @@
 +++
 # Display name
-name = "Nelson Bighetti"
+name = "Agathe Pierson"
 
 # Username (this should match the folder name)
 authors = ["admin"]
@@ -9,56 +9,60 @@ authors = ["admin"]
 superuser = true
 
 # Role/position
-role = "Professor of Artificial Intelligence"
+role = "PhD Student"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "Stanford University", url = "" } ]
+organizations = [ { name = "UCLouvain", url = "https://uclouvain.be/" } ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "My research interests include distributed robotics, mobile computing and programmable matter."
+bio = "As a PhD Student at UCLouvain (CENTAL, team part of ILC), I'm currently working on medical language, more precisely on time, aspect and cause expression in professional medical language, carried out with a twofold approach that combines NLP tools and linguistic theories. My research interests include information extraction, semantics and clinical linguistics."
+"I am a PhD candidate in Linguistics thanks to a F.R.S.-F.N.R.S. Fellowship (Belgium). Previously, I studied French Linguistics (corpus linguistics, sociolinguistics, historical linguistics, phonetics and dialectal). Especially, I worked on Middle French lexicon for the development of new linguistics resources."
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email = ""
 
 # List (academic) interests or hobbies
 interests = [
-  "Artificial Intelligence",
   "Computational Linguistics",
-  "Information Retrieval"
+  "Information Extraction",
+  "TAM",
+  "Medical sublanguage",
+  "Sociolinguistics",
+  "Historical linguistics"
 ]
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups = ["Researchers", "Visitors"]
+#user_groups = ["Researchers", "Visitors"]
 
 # List qualifications (such as academic degrees)
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
+  course = "PhD in Linguistics"
+  institution = "UCLouvain"
+  year = 2016-2020
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
+  course = "Master [120] in Linguistics"
+  institution = "UCLouvain"
+  year = 2016
 
 [[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
+  course = "Bachelor in French and Romance Languages and Letters (with a minor in Antiquity: Egypt, East, Greece, Rome)"
+  institution = "UCLouvain"
+  year = 2014
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 
-[[social]]
+#[[social]]
   icon = "envelope"
   icon_pack = "fas"
   link = "#contact"  # For a direct email link, use "mailto:test@example.org".
 
-[[social]]
+#[[social]]
   icon = "twitter"
   icon_pack = "fab"
   link = "https://twitter.com/GeorgeCushen"
@@ -66,9 +70,9 @@ user_groups = ["Researchers", "Visitors"]
 [[social]]
   icon = "google-scholar"
   icon_pack = "ai"
-  link = "https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ"
+  link = "https://scholar.google.be/citations?user=tA4Y1aYAAAAJ&hl=fr"
 
-[[social]]
+#[[social]]
   icon = "github"
   icon_pack = "fab"
   link = "https://github.com/gcushen"
@@ -82,6 +86,5 @@ user_groups = ["Researchers", "Visitors"]
 
 +++
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+About me
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 

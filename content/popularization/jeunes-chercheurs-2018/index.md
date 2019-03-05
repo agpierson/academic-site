@@ -3,7 +3,7 @@ title = "L’information causale et temporelle dans le langage médical"
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date = 2018-02-117T15:36:10+01:00
+date = 2018-02-17T15:36:10
 #date_end = 2017-03-17T15:36:10+01:00
 all_day = false
 
@@ -53,7 +53,7 @@ url_slides = ""
 projects = []
 
 # Links (optional).
-url_pdf = "jeunes-chercheurs_slides"
+url_pdf = ""
 url_video = ""
 url_code = ""
 

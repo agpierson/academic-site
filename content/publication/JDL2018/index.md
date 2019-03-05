@@ -17,8 +17,8 @@ authors = ["admin"]
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "Le langage médical, un sous-langage ? Étude syntaxique de l'expression de la causalité dans un corpus médical"
-#publication_short = "Le langage médical, un sous-langage"
+publication = "_Actes du XXXIe colloque des Journées de linguistique (Université Laval)_"
+#publication_short = "_Actes du XXXIe colloque des Journées de linguistique (Université Laval)_"
 
 # Abstract.
 abstract = "This paper presents the first results of a comparative study effected to determine whether the French written medical language of professionals presents a distinct distribution of causal expressions. First, I discuss the theoretical background and research questions that underpin our project. Then, I describe the two corpora – the medical corpus and the reference corpus – that I have analysed. After that, I detail our methodology, introducing the typology I have constructed and the tools used for this study. Afterwards, I undertake the evaluation of our typology and the analysis of the syntactic observations that I have made thus far. Finally, I summarize the current findings of our research and suggest some avenues for future research that our study opens up."

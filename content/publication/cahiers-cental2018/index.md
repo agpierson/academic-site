@@ -17,8 +17,8 @@ authors = ["admin"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "The Concept of Sublanguage: A Comparative Study of a Professional Medical Corpus and a General Public Medical Corpus"
-#publication_short = "The Concept of Sublanguage"
+publication = "_Cahiers du CENTAL_, Vol. 8"
+#publication_short = "_Cahiers du CENTAL_, Vol. 8"
 
 # Abstract.
 abstract = "This paper will present a comparative study, carried out to determine whether the medical language from the health section of Doctissimo’s forum is a sublanguage in the same way as the medical language of professionals. We will firstly describe our three-step approach, and will introduce the typology that we developed and the tools used for this study. We will then proceed to evaluate the typology and analyse the syntactic and lexical-semantic observations that were carried out. Finally, we will review the current limitations of our methodology and will suggest some further research opportunities that our study opens up."

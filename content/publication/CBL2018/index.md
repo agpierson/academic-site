@@ -17,8 +17,8 @@ authors = ["admin"]
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "L'expression de la causalité dans le langage médical. Établissement d'une typologie spécifique"
-#publication_short = "L'expression de la causalité dans le langage médical"
+publication = "_Travaux du Cercle Belge de Linguistique_, Vol. 12"
+#publication_short = "_Travaux du Cercle Belge de Linguistique_, Vol. 12"
 
 # Abstract.
 abstract = ""

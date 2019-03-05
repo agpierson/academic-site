@@ -17,8 +17,8 @@ authors = ["admin", "Louise-Amélie Cougnon", "Cédrick Fairon"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "Analyse d’un corpus médical en vue de l’élaboration d’un lexique médical aspectuo-temporel"
-publication_short = "(Soumis)"
+publication = " (Soumis)"
+publication_short = "_Cahiers Chronos_ (Soumis)"
 
 # Abstract.
 abstract = ""

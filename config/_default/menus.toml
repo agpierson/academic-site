@@ -19,10 +19,6 @@
   weight = 30
   
 [[main]]
-  name = "Experience"
-  weight = 40  
-
-[[main]]
   name = "Contact"
   url = "#contact"
   weight = 50

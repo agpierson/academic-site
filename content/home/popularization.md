@@ -1,20 +1,20 @@
 +++
-# Tag Cloud widget.
-widget = "tag_cloud"  # Do not modify this line!
-active = false  # Activate this widget? true/false
+# A Recent and Upcoming Talks section created with the Pages widget.
+# This section displays recent talks from `content/talk/`.
+
+widget = "pages"  # Do not modify this line!
+active = true  # Activate this widget? true/false
+weight = 120  # Order that this section will appear.
 
 title = "Popularization Effort"
 subtitle = ""
-
-# Order that this section will appear in.
-weight = 120
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
   page_type = "talk"
   
   # Choose how much pages you would like to display (0 = all pages)
-  count = 3
+  count = 10
   
   # Choose how many pages you would like to offset by
   offset = 0

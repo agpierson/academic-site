@@ -1,14 +1,14 @@
 +++
-title = "L'information causale et temporelle dans le langage médical"
+title = "L’information causale et temporelle dans le langage médical"
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date = 2018-02-17T15:35:45+01:00
-#date_end = 2019-03-05T15:35:45+01:00
+date = 2018-02-117T15:36:10+01:00
+#date_end = 2017-03-17T15:36:10+01:00
 all_day = false
 
 # Schedule page publish date (NOT talk date).
-#publishDate = 2019-03-05T15:35:45+01:00
+#publishDate = 2019-03-05T15:36:10+01:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["admin"]
@@ -17,14 +17,14 @@ authors = ["admin"]
 location = "Brussels, Belgium"
 
 # Name of event and optional event URL.
-event = "Jeunes chercheurs dans la Cité"
+event = "7e édition Festival Jeunes Chercheurs dans la Cité"
 event_url = "https://jeuneschercheursdanslacite.wordpress.com/"
 
 # Abstract. What's your talk about?
 abstract = ""
 
 # Summary. An optional shortened abstract.
-summary = "Automated text categorisation, medical language, causality, corpus linguistics, information extraction"
+summary = ""
 
 # Is this a featured talk? (true/false)
 featured = false
@@ -53,7 +53,7 @@ url_slides = ""
 projects = []
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "jeunes-chercheurs_slides"
 url_video = ""
 url_code = ""
 

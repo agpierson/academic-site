@@ -47,3 +47,32 @@ subtitle = ""
   
 +++
 
+[[professional.experience]]
+  year = "09/2016 - 10/2020"
+  institution = "Cental, UCLouvain, Belgium"
+  job = "PhD Thesis"
+  
+[[professional.experience]]
+  year = "07/2016 - 08/2016"
+  institution = "CECL, UCLouvain, Belgium"
+  job = "Constitution and annotation of French/English corpora"
+  
+[[professional.experience]]
+  year = "05/2016 - 06/2016"
+  institution = "Valibel, UCLouvain, Belgium"
+  job = "Transcripts of oral speeches"
+  
+[[professional.experience]]
+  year = "04/2015 - 06/2015"
+  institution = "Girsef, UCLouvain, Belgium & Cental, UCLouvain, Belgium"
+  job = "WebDeb & Glossanet Projects"
+  
+[[professional.experience]]
+  year = "02/2015 - 06/2015"
+  institution = "CEMR, UCLouvain, Belgium"
+  job = "Internship"
+  
+[[professional.experience]]
+  year = "09/2013 - 08/2016"
+  institution = "My Sherpa"
+  job = "French and method private teacher"

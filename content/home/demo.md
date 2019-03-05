@@ -47,10 +47,9 @@ subtitle = ""
   
 +++
 
-[[professional.experience]]
-  year = "09/2016 - 10/2020"
-  institution = "Cental, UCLouvain, Belgium"
-  job = "PhD Thesis"
+09/2016 - 10/2020	Cental, UCLouvain, Belgium
+
+	PhD Thesis
   
 [[professional.experience]]
   year = "07/2016 - 08/2016"

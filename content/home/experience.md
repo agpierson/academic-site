@@ -1,7 +1,7 @@
 +++
 # Experience widget.
 widget = "experience"  # Do not modify this line!
-active = false  # Activate this widget? true/false
+active = true  # Activate this widget? true/false
 
 title = "Experience"
 subtitle = ""
@@ -19,27 +19,23 @@ date_format = "January 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
-  date_end = ""
-  description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
-  """
+  title = "PhD Student"
+  company = "CENTAL, UCLouvain"
+  company_url = "https://uclouvain.be/fr/instituts-recherche/ilc/cental"
+  location = "Louvain-la-Neuve, Belgium"
+  date_start = "September 2016"
+  date_end = "October 2020"
+  description = """PhD Thesis"""
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  title = "Student"
+  company = "CECL, UCLouvain"
+  company_url = "https://uclouvain.be/en/research-institutes/ilc/cecl"
+  location = "Louvain-la-Neuve, Belgium"
+  date_start = "July 2016"
+  date_end = "Augustus 2016"
+  description = """Constitution and Annotation of French and English corpora"""
+  
+  
 
 +++

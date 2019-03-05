@@ -7,7 +7,7 @@ title = "Fellowships"
 subtitle = ""
 
 # Order that this section will appear in.
-weight = 50
+weight = 65
 
 # Date format
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
@@ -30,7 +30,7 @@ date_format = "Jan 2006"
   organization = "Labex EFL"
   date_start = "2018-04-28"
   date_end = "2018-08-01"
-  certificate_url = "http://www.labex-efl.com/wordpress/?lang=en"
+  certificate_url = ""
   description = "Research stay at the Paris Diderot University (Paris 7, France) under supervision of P. Caudal and P.Amsili"
 
 +++

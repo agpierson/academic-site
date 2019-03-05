@@ -1,27 +1,27 @@
 +++
-title = "Laval2017"
+title = "Le langage médical, un sous-langage ? Étude syntaxique de l'expression de la causalité dans un corpus médical"
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date = 2019-03-05T15:36:20+01:00
-date_end = 2019-03-05T15:36:20+01:00
+date = 2017-03-16T15:36:10+01:00
+#date_end = 2017-03-17T15:36:10+01:00
 all_day = false
 
 # Schedule page publish date (NOT talk date).
-publishDate = 2019-03-05T15:36:20+01:00
+#publishDate = 2019-03-05T15:36:10+01:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = []
+authors = ["admin"]
 
 # Location of event.
-location = ""
+location = "Laval, Québec, Canada"
 
 # Name of event and optional event URL.
-event = ""
-event_url = ""
+event = "XXXIe colloque des Journées de linguistique"
+event_url = "http://jdl.lli.ulaval.ca/"
 
 # Abstract. What's your talk about?
-abstract = ""
+abstract = "Notre communication vise à démontrer, par l’analyse des différentes formes d’expression de la causalité dans un corpus de textes médicaux, comment nous pouvons actualiser l’appartenance du langage médical à la notion de sous-langage (au sens harrissien [1]). En effet, la plupart des arguments apportés en faveur de cette reconnaissance d’un sous-langage médical se fondent sur des analyses lexicales qui promeuvent l’usage d’un vocabulaire, d’expressions et de tournures phrastiques symptomatiques du domaine. Notre contribution tend à renforcer cette identification d’un sous-langage médical en étudiant le procédé lexico-syntaxique de l’expression des relations de cause à effet au sein d’un corpus d’environ 225.000 textes médicaux (protocoles opératoires, rapports radiologiques, lettres de sortie…), collectés dans six services d’un hôpital bruxellois (gastroentérologie, IRM, chirurgie bariatrique et chirurgicale…). Nous comparons notre corpus de textes médicaux à un corpus de référence du français [2]. De fait, cette comparaison permettra de spécifier l’usage des expressions causales propre au langage médical et ainsi de soutenir l’acception du langage médical dans la théorie des sous-langages [3]. Pour ce faire, nous avons établi une typologie quadripartite de la formulation de la causalité en français [4] : l’emploi de connecteurs causaux, le détournement d’autres relations logiques, les tournures syntaxiques lexicales et le lexique, s’ajoutant à cela l’implicite causal. Nous proposons d’observer comment le langage médical tire profit de ces différentes formulations pour exprimer plusieurs nuances causales, jouant chacune un rôle spécifique dans le contexte médical."
 
 # Summary. An optional shortened abstract.
 summary = ""

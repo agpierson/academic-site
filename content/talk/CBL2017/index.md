@@ -1,28 +1,27 @@
 +++
-title = "CBL2017"
+title = "L’expression de la causalité dans le langage médical. Établissement d’une typologie spécifique."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date = 2019-03-05T15:36:10+01:00
-date_end = 2019-03-05T15:36:10+01:00
+date = 2017-05-05T15:36:10+01:00
+#date_end = 2019-03-05T15:36:10+01:00
 all_day = false
 
 # Schedule page publish date (NOT talk date).
-publishDate = 2019-03-05T15:36:10+01:00
+#publishDate = 2019-03-05T15:36:10+01:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = []
+authors = ["admin"]
 
 # Location of event.
-location = ""
+location = "Antwerpen, Belgium"
 
 # Name of event and optional event URL.
-event = ""
-event_url = ""
+event = "Linguists’ Day 2017 of the Linguistic Society of Belgium"
+#event_url = ""
 
 # Abstract. What's your talk about?
 abstract = ""
-
 # Summary. An optional shortened abstract.
 summary = ""
 

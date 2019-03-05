@@ -1,24 +1,24 @@
 +++
-title = "Belfast2017"
+title = "« Une zone inflammatoire séquellaire d'oesophagite peptique »: Functional analysis of the expression of cause/effect patterns in medical records"
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date = 2019-03-05T15:36:01+01:00
-date_end = 2019-03-05T15:36:01+01:00
+date = 2017-07-16T15:36:01+01:00
+date_end = 2017-07-21T15:36:01+01:00
 all_day = false
 
 # Schedule page publish date (NOT talk date).
-publishDate = 2019-03-05T15:36:01+01:00
+#publishDate = 2019-03-05T15:36:01+01:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = []
+authors = ["admin", "Louise-Amélie Cougnon"]
 
 # Location of event.
-location = ""
+location = "Belgast, Nothern Ireland"
 
 # Name of event and optional event URL.
-event = ""
-event_url = ""
+event = "15th International Pragmatics Conference "
+event_url = "https://ipra.uantwerpen.be/main.aspx?c=*CONFERENCE2006&n=1338"
 
 # Abstract. What's your talk about?
 abstract = ""

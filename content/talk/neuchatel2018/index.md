@@ -1,24 +1,24 @@
 +++
-title = "Neuchatel2018"
+title = "Analyse d’un corpus médical en vue de l’élaboration d’un lexique médical aspectuo-temporel."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date = 2019-03-05T15:35:50+01:00
-date_end = 2019-03-05T15:35:50+01:00
+date = 2018-06-04T15:35:50+01:00
+date_end = 2018-06-06T15:35:50+01:00
 all_day = false
 
 # Schedule page publish date (NOT talk date).
-publishDate = 2019-03-05T15:35:50+01:00
+#publishDate = 2019-03-05T15:35:50+01:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = []
+authors = ["admin"]
 
 # Location of event.
-location = ""
+location = "Neuchatel, Switzerland"
 
 # Name of event and optional event URL.
-event = ""
-event_url = ""
+event = "13th Chronos Conference"
+event_url = "http://www.unine.ch/islc/chronos2018"
 
 # Abstract. What's your talk about?
 abstract = ""
@@ -27,7 +27,7 @@ abstract = ""
 summary = ""
 
 # Is this a featured talk? (true/false)
-featured = false
+featured = true
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.

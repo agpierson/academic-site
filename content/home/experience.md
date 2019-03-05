@@ -24,7 +24,7 @@ date_format = "January 2006"
   company_url = "https://uclouvain.be/fr/instituts-recherche/ilc/cental"
   location = "Louvain-la-Neuve, Belgium"
   date_start = "September 2016"
-  date_end = "October 2020"
+  date_end = ""
   description = """PhD Thesis"""
 
 [[experience]]

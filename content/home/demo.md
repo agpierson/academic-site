@@ -47,25 +47,43 @@ subtitle = ""
   
 +++
 
-September 2016 - October 2020	_Cental, UCLouvain, Belgium_
-	PhD Thesis
+September 2016 - October 2020	
+
+_Cental, UCLouvain, Belgium_
+
+PhD Thesis
   
 
-July 2016 - Augustus 2016		_CECL, UCLouvain, Belgium_
-	Constitution and annotation of French/English corpora
+July 2016 - Augustus 2016
+
+_CECL, UCLouvain, Belgium_
+
+Constitution and annotation of French/English corpora
   
 
-May 2016 - June 2016			_Valibel, UCLouvain, Belgium_
-	Transcripts of oral speeches
+May 2016 - June 2016
+
+_Valibel, UCLouvain, Belgium_
+
+Transcripts of oral speeches
 	
 
-April 2015 - June 2015			_Girsef, UCLouvain, Belgium & Cental, UCLouvain, Belgium_	
-	WebDeb & Glossanet Projects
+April 2015 - June 2015
+
+_Girsef, UCLouvain, Belgium & Cental, UCLouvain, Belgium_	
+
+WebDeb & Glossanet Projects
  
 
-February 2015 - June 2015		_CEMR, UCLouvain, Belgium_
-	Internship
+February 2015 - June 2015		
+
+_CEMR, UCLouvain, Belgium_
+
+Internship
 
   
-September 2013 - Augustus 2016	_My Sherpa, Brussels, Belgium_
-	French and method private teacher
+September 2013 - Augustus 2016
+
+_My Sherpa, Brussels, Belgium_
+
+French and method private teacher

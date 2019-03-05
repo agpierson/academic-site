@@ -17,7 +17,7 @@ authors = ["admin"]
 publication_types = ["3"]
 
 # Publication name and optional abbreviated version.
-publication = "Louvain-la-Neuve. UCL"
+publication = "Master Thesis, Louvain-la-Neuve. UCLouvain"
 publication_short = ""
 
 # Abstract.

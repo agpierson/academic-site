@@ -17,7 +17,7 @@ authors = ["admin"]
 publication_types = ["3"]
 
 # Publication name and optional abbreviated version.
-publication = "Le renouvellement lexical dans le Miroir historial de Jean de Vignay. Analyse et commentaire des quatre premiers livres"
+publication = "Louvain-la-Neuve. UCL"
 publication_short = ""
 
 # Abstract.

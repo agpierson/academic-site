@@ -1,9 +1,9 @@
 +++
 # Accomplishments widget.
 widget = "accomplishments"  # Do not modify this line!
-active = false  # Activate this widget? true/false
+active = true  # Activate this widget? true/false
 
-title = "Accomplishments"
+title = "Fellowships"
 subtitle = ""
 
 # Order that this section will appear in.
@@ -20,11 +20,17 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  title = "Neural Networks and Deep Learning"
-  organization = "Coursera"
-  certificate_url = "https://www.coursera.org"
+  title = "Two-Year F.N.R.S. Fellowship for Ph.D. research"
+  organization = "F.R.S.-FNRS"
   date_start = "2018-10-01"
-  date_end = ""
-  description = ""
+  date_end = "2020-10-30"
+  
+[[item]]
+  title = "Three-Months Mobility Grant for Ph.D. student"
+  organization = "Labex EFL"
+  date_start = "2018-04-28"
+  date_end = "2018-08-01"
+  certificate_url = "http://www.labex-efl.com/wordpress/?lang=en"
+  description = "Research stay at the Paris Diderot University (Paris 7, France) under supervision of P. Caudal and P.Amsili"
 
 +++

@@ -4,7 +4,6 @@ date = 2016-08-05T15:17:03+01:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["admin"]
-promotors = ["Mattia Cavagna]
 
 # Publication type.
 # Legend:

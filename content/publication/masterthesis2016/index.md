@@ -1,9 +1,10 @@
 +++
-title = "Analyse d’un corpus médical en vue de l’élaboration d’un lexique médical aspectuo-temporel"
-date = 2019-03-05T14:53:36+01:00
+title = "Le renouvellement lexical dans le Miroir historial de Jean de Vignay. Analyse et commentaire des quatre premiers livres"
+date = 2016-08-05T15:17:03+01:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["admin", "Louise-Amélie Cougnon", "Cédrick Fairon"]
+authors = ["admin"]
+promotors = ["Mattia Cavagna]
 
 # Publication type.
 # Legend:
@@ -14,11 +15,11 @@ authors = ["admin", "Louise-Amélie Cougnon", "Cédrick Fairon"]
 # 4 = Report
 # 5 = Book
 # 6 = Book section
-publication_types = ["2"]
+publication_types = ["3"]
 
 # Publication name and optional abbreviated version.
-publication = "Analyse d’un corpus médical en vue de l’élaboration d’un lexique médical aspectuo-temporel"
-publication_short = "(Soumis)"
+publication = "Le renouvellement lexical dans le Miroir historial de Jean de Vignay. Analyse et commentaire des quatre premiers livres"
+publication_short = ""
 
 # Abstract.
 abstract = ""
@@ -30,7 +31,7 @@ summary = ""
 doi = ""
 
 # Is this a featured publication? (true/false)
-featured = true
+featured = false
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.

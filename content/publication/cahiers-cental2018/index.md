@@ -1,6 +1,6 @@
 +++
 title = "The Concept of Sublanguage: A Comparative Study of a Professional Medical Corpus and a General Public Medical Corpus"
-date = 2018-03-01T13:54:44+01:00
+date = 2018-12-01T13:54:44+01:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["admin"]
@@ -71,7 +71,7 @@ url_source = ""
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 [image]
   # Caption (optional)
-  caption = "cahiers-cental2018.jpg"
+  caption = "featured.jpg"
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight

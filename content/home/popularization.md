@@ -2,7 +2,7 @@
 # A Recent and Upcoming Talks section created with the Pages widget.
 # This section displays recent talks from `content/talk/`.
 
-widget = "pages"  # Do not modify this line!
+widget = "portfolio"  # Do not modify this line!
 active = true  # Activate this widget? true/false
 weight = 120  # Order that this section will appear.
 

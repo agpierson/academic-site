@@ -1,6 +1,6 @@
 +++
-title = "The Concept of Sublanguage: A Comparative Study of a Professional Medical Corpus and a General Public Medical Corpus"
-date = 2018-03-01T13:54:44+01:00
+title = "L'expression de la causalité dans le langage médical. Établissement d'une typologie spécifique"
+date = 2018-03-05T14:53:21+01:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["admin"]
@@ -14,23 +14,23 @@ authors = ["admin"]
 # 4 = Report
 # 5 = Book
 # 6 = Book section
-publication_types = ["2"]
+publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "The Concept of Sublanguage: A Comparative Study of a Professional Medical Corpus and a General Public Medical Corpus"
-#publication_short = "The Concept of Sublanguage"
+publication = "L'expression de la causalité dans le langage médical. Établissement d'une typologie spécifique"
+#publication_short = "L'expression de la causalité dans le langage médical"
 
 # Abstract.
-abstract = "This paper will present a comparative study, carried out to determine whether the medical language from the health section of Doctissimo’s forum is a sublanguage in the same way as the medical language of professionals. We will firstly describe our three-step approach, and will introduce the typology that we developed and the tools used for this study. We will then proceed to evaluate the typology and analyse the syntactic and lexical-semantic observations that were carried out. Finally, we will review the current limitations of our methodology and will suggest some further research opportunities that our study opens up."
+abstract = ""
 
 # Summary. An optional shortened abstract.
-summary = "Sublanguage, medical language, causality, corpus linguistics"
+summary = ""
 
 # Digital Object Identifier (DOI)
 doi = ""
 
 # Is this a featured publication? (true/false)
-featured = true
+featured = false
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
@@ -71,9 +71,9 @@ url_source = ""
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 [image]
   # Caption (optional)
-  caption = "cahiers-cental2018.jpg"
+  caption = ""
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = "" 
+  focal_point = ""
 +++

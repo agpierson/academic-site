@@ -25,7 +25,7 @@ email = ""
 interests = [
   "Computational Linguistics",
   "Information Extraction",
-  "TAM",
+  "Tense-Aspect-Mood",
   "Medical sublanguage",
   "Sociolinguistics",
   "Historical linguistics"

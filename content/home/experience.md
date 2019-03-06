@@ -44,7 +44,7 @@ date_format = "January 2006"
   location = "Louvain-la-Neuve, Belgium"
   date_start = "2016-05-01"
   date_end = "2016-06-30"
-  description = """Constitution and Annotation of French and English corpora"""
+  description = """Transcription of oral speeches"""
   
 [[experience]]
   title = "Student"

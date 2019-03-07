@@ -19,9 +19,34 @@
   weight = 30
   
 [[main]]
+  name = "Fellowships"
+  url = "#accomplishments"
+  weight = 65
+  
+[[main]]
+  name = "Professional Experience"
+  url = "#experience"
+  weight = 70
+  
+[[main]]
+  name = "Teaching"
+  url = "#accomplishments"
+  weight = 110
+  
+[[main]]
+  name = "Academic activities"
+  url = "#accomplishments"
+  weight = 115
+
+[[main]]
+  name = "Popularization Effort"
+  url = "#pages"
+  weight = 120
+  
+[[main]]
   name = "Contact"
   url = "#contact"
-  weight = 50
+  weight = 130  
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.

@@ -1,6 +1,6 @@
 +++
 title = "Study of lexical aspect in the French medical language. Development of a lexical resource"
-date = 2018-03-05T14:53:29+01:00
+date = 2019-04-05T14:53:36+01:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["admin", "Cédrick Fairon"]
